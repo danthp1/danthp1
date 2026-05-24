@@ -1,4 +1,4 @@
-# hey, i'm dan 👋
+# hey, i'm dan
 
 developer • designer • builder
 
@@ -6,7 +6,7 @@ i like building clean interfaces for complex systems — especially around data,
 
 ---
 
-## 🧠 what i do
+## what i do
 
 - software dev (python, js/ts)
 - ui/ux & product design (figma, design thinking)
@@ -16,7 +16,7 @@ i like building clean interfaces for complex systems — especially around data,
 
 ---
 
-## 🛠️ stack
+## stack
 
 **code**
 python · javascript · typescript · sql
@@ -34,9 +34,9 @@ figma · git · basic abap
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=danthp1&show_icons=true&theme=radical)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthp1&layout=compact&theme=radical)
 
 ---
 
