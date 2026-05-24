@@ -1,26 +1,54 @@
-# Hi there, I'm Dan! 👋
+# hey, i'm dan 👋
 
-Full-Stack Web Developer & Data Science Student. I bridge the gap between clean code, data-driven insights, and intuitive UX/UI design.
+developer • designer • builder
 
-- 🛠️ Currently building modern web applications with Next.js & React
-- 📊 Exploring Data Science, Knowledge Graphs, and AI orchestration
-- 🎨 Passionate about crafting seamless user experiences and visual design
+i like building clean interfaces for complex systems — especially around data, ai and visual tools.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🧠 what i do
 
-**Frontend & Design:**
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Backend & Data:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- software dev (python, js/ts)
+- ui/ux & product design (figma, design thinking)
+- ai + data systems (ml basics, recommender systems)
+- knowledge graphs & search systems
+- backend + frontend stuff
 
 ---
 
-### 📊 My GitHub Stats
+## 🛠️ stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danthp1&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="Dan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthp1&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
-</p>
+**code**
+python · javascript · typescript · sql
+
+**frontend**
+svelte · vue · html · css · nextjs
+
+**backend**
+python · rest apis · postgresql · java
+
+**other**
+figma · git · basic abap
+
+---
+
+## 📊 github stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🚧 what i'm working on
+
+- ai deck recommender (yu-gi-oh!)
+- search + ranking in knowledge graphs
+- data visualization tools for complex networks
+- internal sap cloud transformation projects
+
+---
+
+## 📫
+
+open to collab, ideas, or just building cool stuff.
